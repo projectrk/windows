@@ -1,4 +1,4 @@
-# Force Windows Update Silently
+# Windows Update Script
 Write-Output "Starting Windows Update..."
 
 # Create the Windows Update COM object

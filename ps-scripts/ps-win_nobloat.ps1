@@ -1,4 +1,4 @@
-# List of known bloatware package names to remove
+# Removing bloatware from Windows 10/11
 $bloatware = @(
     "Microsoft.3DViewer",
     "Microsoft.XboxApp",
