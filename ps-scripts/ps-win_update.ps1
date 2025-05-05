@@ -36,3 +36,4 @@ if ($updatesToInstall.Count -gt 0) {
 } else {
     Write-Output "No applicable updates to install."
 }
+# END OF FILE
